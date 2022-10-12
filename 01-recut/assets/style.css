@@ -1339,43 +1339,43 @@ video {
 }
 
 .max-w-4xl {
-	max-width: 56rem !important;
+	max-width: min(56rem, 100%) !important;
 }
 
 .max-w-4xs {
-	max-width: 10rem !important;
+	max-width: min(10rem, 100%) !important;
 }
 
 .max-w-xxs {
-	max-width: 16rem !important;
+	max-width: min(16rem, 100%) !important;
 }
 
 .max-w-5xs {
-	max-width: 8rem !important;
+	max-width: min(8rem, 100%) !important;
 }
 
 .max-w-3xl {
-	max-width: 48rem !important;
+	max-width: min(48rem, 100%) !important;
 }
 
 .max-w-2xl {
-	max-width: 42rem !important;
+	max-width: min(42rem, 100%) !important;
 }
 
 .max-w-md {
-	max-width: 28rem !important;
+	max-width: min(28rem, 100%) !important;
 }
 
 .max-w-80 {
-	max-width: 80px !important;
+	max-width: min(80px, 100%) !important;
 }
 
 .max-w-6xl {
-	max-width: 72rem !important;
+	max-width: min(72rem, 100%) !important;
 }
 
 .max-w-lg {
-	max-width: 32rem !important;
+	max-width: min(32rem, 100%) !important;
 }
 
 .max-w-full {

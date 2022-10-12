@@ -157,6 +157,12 @@ a {
   transform: translateX(12px) skew(-24deg);
 }
 
+@media (max-width: 975px) {
+  main {
+    overflow: hidden;
+  }
+}
+
 .heading-content {
   position: relative;
 }
